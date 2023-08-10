@@ -1,2 +1,2 @@
 # ogas
-network library written by go
+An Hybrid Deploy Kubernetes Scheduler
